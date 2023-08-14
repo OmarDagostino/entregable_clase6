@@ -1,0 +1,90 @@
+[   {
+	"id": 1,
+	"title": "producto 1",
+	"description": "Primer Producto",
+	"price": 101,
+	"thumbnail": "sin imagen",
+	"code": "abc1",
+	"stock": 11
+},
+{
+	"id": 2,
+	"title": "producto 2",
+	"description": "Segundo Producto",
+	"price": 102,
+	"thumbnail": "sin imagen",
+	"code": "abc2",
+	"stock": 12
+},
+{
+	"id": 3,
+	"title": "producto 3",
+	"description": "Tercer Producto",
+	"price": 103,
+	"thumbnail": "sin imagen",
+	"code": "abc3",
+	"stock": 13
+},
+{
+	"id": 4,
+	"title": "producto 4",
+	"description": "Cuarto Producto",
+	"price": 104,
+	"thumbnail": "sin imagen",
+	"code": "abc4",
+	"stock": 14
+},
+{
+	"id": 5,
+	"title": "producto 5",
+	"description": "Quinto Producto",
+	"price": 105,
+	"thumbnail": "sin imagen",
+	"code": "abc5",
+	"stock": 15
+},
+{
+	"id": 6,
+	"title": "producto 6",
+	"description": "Sexto Producto",
+	"price": 106,
+	"thumbnail": "sin imagen",
+	"code": "abc6",
+	"stock": 16
+},
+{
+	"id": 7,
+	"title": "producto 7",
+	"description": "Septimo Producto",
+	"price": 107,
+	"thumbnail": "sin imagen",
+	"code": "abc7",
+	"stock": 17
+},
+{
+	"id": 8,
+	"title": "producto 8",
+	"description": "Octavo Producto",
+	"price": 108,
+	"thumbnail": "sin imagen",
+	"code": "abc8",
+	"stock": 18
+},
+{
+	"id": 9,
+	"title": "producto 9",
+	"description": "Noveno Producto",
+	"price": 109,
+	"thumbnail": "sin imagen",
+	"code": "abc9",
+	"stock": 19
+},
+{
+	"id": 10,
+	"title": "producto 10",
+	"description": "Decimo Producto",
+	"price": 110,
+	"thumbnail": "sin imagen",
+	"code": "abc10",
+	"stock": 20
+}]
